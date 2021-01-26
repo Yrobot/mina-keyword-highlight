@@ -1,0 +1,27 @@
+{
+  "name": "mina-keyword-highlight",
+  "version": "1.0.0",
+  "description": "keyword highlight component for WeiXin mina",
+  "main": "keyword-highlight",
+  "miniprogram": "keyword-highlight",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yrobot/mina-keyword-highlight.git"
+  },
+  "keywords": [
+    "yrobot",
+    "keyword",
+    "highlight",
+    "mina",
+    "weixin"
+  ],
+  "author": "Yrobot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yrobot/mina-keyword-highlight/issues"
+  },
+  "homepage": "https://github.com/Yrobot/mina-keyword-highlight#readme"
+}
