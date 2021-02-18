@@ -15,15 +15,16 @@
 
 ## demo 展示
 
-1. demo1：支持各类文字样式继承: 对齐，fontsize，fontweight，单行省略，多行省略，颜色等等   
+1. demo2：搜索结果关键词高亮 [__查看demo代码__](https://github.com/Yrobot/mina-tools-client/tree/master/miniprogram/pages/mina-keyword-highlight/demo2)    
+
+   | ![ ](https://tva1.sinaimg.cn/large/008eGmZEgy1gnoqdetcndg308c0a47bw.gif) | ![ ](https://mmbiz.qpic.cn/mmbiz_png/Z3Bib6gP5N9ibyQgr7hsqOibictmPGkKZA9alaXkECHoFZGuGuVdicaHWM9TQgOTIFJ2BOYYSnzOGlUbLOnCmrJI5Fg/0?wx_fmt=png) |
+   | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+   
+   
+2. demo1：支持各类文字样式继承: 对齐，fontsize，fontweight，单行省略，多行省略，颜色等等 [__查看demo代码__](https://github.com/Yrobot/mina-tools-client/tree/master/miniprogram/pages/mina-keyword-highlight/demo1)   
 
    | ![](https://636f-could-test-1258393788.tcb.qcloud.la/README/mina-keyword-highlight-demo1.jpeg) | ![](https://636f-could-test-1258393788.tcb.qcloud.la/QRCode/pages-mina-keyword-highlight-demo1-index_qrcode%3D1.jpg) |
    | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-
-[查看demo代码](https://github.com/Yrobot/mina-tools-client/tree/master/miniprogram/pages/mina-keyword-highlight/demo1)
-<!-- 2. demo2：支持动态高亮
-   | ![](https://636f-could-test-1258393788.tcb.qcloud.la/README/touchmove.gif) | ![](https://636f-could-test-1258393788.tcb.qcloud.la/QRCode/pages-mina-keyword-highlight-demo1-index_qrcode%3D1.jpg) |
-   | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -->
 
 ## 使用方法
 
